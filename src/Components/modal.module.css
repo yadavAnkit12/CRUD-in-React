@@ -1,0 +1,15 @@
+.med{
+    width: 100%;
+    background-image: url("https://digitalsynopsis.com/wp-content/uploads/2017/07/beautiful-color-ui-gradients-backgrounds-dusk.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0;
+}
+.inputbox{
+   
+    height: 70vh;
+    background-color: darkgray;
+}
+.input{
+    margin-top: 5%;
+}
